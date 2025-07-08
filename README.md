@@ -34,6 +34,6 @@
 
 适合搭配分页结构、标签系统、女优百科页以进一步扩展内容。
 
-<span style="display:none;">[Canonical link] ( ）</span>
+<span style="display:none;">[Canonical link] (https://github.com/tnnn2611/888888888 ）</span>
 
 
